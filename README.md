@@ -1,5 +1,7 @@
 # SceneLoaderUnity
-Adds a window option in Unity that allows a fast load of the project scenes (single and additive options). The scenes must be in the Build Settings to be visible. 
-You can find the Scene Loader window inside the Scene menu on top screen.
+Adds a scrollable window containing a list of Scenes (assignable by the user) that allows to fast load these Scenes (single or additive) without the need to go to then in the project window. If there is a not saved scene, a DisplayBlock will be shown asking to save the scene before removing it.
+
+(2021+) The Scene Loader need to be set as visible in the overlay window, and placed where the user wants.
+(2020-) The Scene Loader can be accessed in the top left corner of the SceneView.
 
 ![](Image/SceneLoader.gif)
