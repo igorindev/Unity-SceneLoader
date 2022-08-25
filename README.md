@@ -1,5 +1,5 @@
 # Scene Loader Tool for Unity
-Adds a scrollable window containing a list of Scenes (assignable by the user) that allows to fast load these Scenes (single or additive) without the need to go to them in the project window. If there is a not saved scene, a DisplayBlock will be shown asking to save the scene before removing it.
+Opens a scrollable window containing a list of Scenes (assigned by the user) that allows to easily load these Scenes (single or additive) without the need to search them in the project window. If there is a not saved scene, a DisplayBlock will be shown asking to save the scene before removing it.
 
 ## How to Use
 - Add scenes to the list by clicking on the ⚙️ (gear) icon.
