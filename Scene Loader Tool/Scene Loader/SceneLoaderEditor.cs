@@ -15,11 +15,6 @@ namespace SceneLoader
     [InitializeOnLoad, ExecuteInEditMode]
     public class SceneLoaderEditor : EditorWindow
     {
-        static SceneLoaderEditor()
-        {
-            
-        }
-
         public static bool open = false;
 
         Vector2 scroll = Vector2.zero;
