@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2b4b67617639fe4687cabeb78ccb1b4, type: 3}
   m_Name: SceneGroup
   m_EditorClassIdentifier: 
-  addTex: {fileID: 2800000, guid: 9c195158cf1f0294ea9aacb0f07d125a, type: 3}
+  addTex: {fileID: 2800000, guid: 99d2f6ca3cbe9aa46a40c09579e1e993, type: 3}
   removeTex: {fileID: 2800000, guid: 67590f5d054abdc4a8ad370b0e38ad48, type: 3}
   scenes: []
