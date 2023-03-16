@@ -11,6 +11,6 @@ Opens a scrollable window containing a list of Scenes (assigned by the user) tha
 (2020-) The Scene Loader can be accessed in the top left corner of the SceneView.
 
 ## How to Install
-Download this repository and import the Package or the Folder to inside your Unity project.
+Download this repository and import the Package to inside your Unity project.
 
 ![](Image/SceneLoader.gif)
